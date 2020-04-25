@@ -1,0 +1,13 @@
+In order to launch the game you have to complile file game.py. In conf.txt file you can change some settings.
+Type_of_game:
+1 - player vs player
+2 - player vs computer
+Way_of_playing:
+1 - player use keyboard
+2 - player use mouse
+Speed_of_player_paddle:
+1-10 - speed of players paddle
+Screen_size:
+Number_1xNumber_2  - width and height of board
+Difficulty_level:
+1-10 - speed of computer paddle

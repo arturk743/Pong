@@ -1,0 +1,5 @@
+Type_of_game-1
+Way_of_playing-1
+Speed_of_player_paddle-4
+Screen_size-640x480
+Difficulty_level-4
